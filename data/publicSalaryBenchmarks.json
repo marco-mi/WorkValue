@@ -1,0 +1,4098 @@
+[
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 95760,
+    "annualUSD_p75": 110124
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 119700,
+    "annualUSD_p75": 137655
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 143640,
+    "annualUSD_p75": 165186
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 167580,
+    "annualUSD_p75": 192717
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 79800,
+    "annualUSD_p75": 91770
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 99750,
+    "annualUSD_p75": 114712
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 119700,
+    "annualUSD_p75": 137655
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 139650,
+    "annualUSD_p75": 160598
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 63840,
+    "annualUSD_p75": 73416
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 79800,
+    "annualUSD_p75": 91770
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 95760,
+    "annualUSD_p75": 110124
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 111720,
+    "annualUSD_p75": 128478
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 47880,
+    "annualUSD_p75": 55062
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 59850,
+    "annualUSD_p75": 68828
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 71820,
+    "annualUSD_p75": 82593
+  },
+  {
+    "roleCategory": "software",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 83790,
+    "annualUSD_p75": 96358
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 86640,
+    "annualUSD_p75": 99636
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 108300,
+    "annualUSD_p75": 124545
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 129960,
+    "annualUSD_p75": 149454
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 151620,
+    "annualUSD_p75": 174363
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 72200,
+    "annualUSD_p75": 83030
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 90250,
+    "annualUSD_p75": 103787
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 108300,
+    "annualUSD_p75": 124545
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 126350,
+    "annualUSD_p75": 145302
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 57760,
+    "annualUSD_p75": 66424
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 72200,
+    "annualUSD_p75": 83030
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 86640,
+    "annualUSD_p75": 99636
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 101080,
+    "annualUSD_p75": 116242
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 43320,
+    "annualUSD_p75": 49818
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 54150,
+    "annualUSD_p75": 62272
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 64980,
+    "annualUSD_p75": 74727
+  },
+  {
+    "roleCategory": "software",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 75810,
+    "annualUSD_p75": 87182
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 82080,
+    "annualUSD_p75": 94392
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 102600,
+    "annualUSD_p75": 117990
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 123120,
+    "annualUSD_p75": 141588
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 143640,
+    "annualUSD_p75": 165186
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 68400,
+    "annualUSD_p75": 78660
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 85500,
+    "annualUSD_p75": 98325
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 102600,
+    "annualUSD_p75": 117990
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 119700,
+    "annualUSD_p75": 137655
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 54720,
+    "annualUSD_p75": 62928
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 68400,
+    "annualUSD_p75": 78660
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 82080,
+    "annualUSD_p75": 94392
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 95760,
+    "annualUSD_p75": 110124
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 41040,
+    "annualUSD_p75": 47196
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 51300,
+    "annualUSD_p75": 58995
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 61560,
+    "annualUSD_p75": 70794
+  },
+  {
+    "roleCategory": "software",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 71820,
+    "annualUSD_p75": 82593
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 91200,
+    "annualUSD_p75": 104880
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 114000,
+    "annualUSD_p75": 131100
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 136800,
+    "annualUSD_p75": 157320
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 159600,
+    "annualUSD_p75": 183540
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 76000,
+    "annualUSD_p75": 87400
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 95000,
+    "annualUSD_p75": 109250
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 114000,
+    "annualUSD_p75": 131100
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 133000,
+    "annualUSD_p75": 152950
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 60800,
+    "annualUSD_p75": 69920
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 76000,
+    "annualUSD_p75": 87400
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 91200,
+    "annualUSD_p75": 104880
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 106400,
+    "annualUSD_p75": 122360
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 45600,
+    "annualUSD_p75": 52440
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 57000,
+    "annualUSD_p75": 65550
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 68400,
+    "annualUSD_p75": 78660
+  },
+  {
+    "roleCategory": "software",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 79800,
+    "annualUSD_p75": 91770
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 100800,
+    "annualUSD_p75": 115920
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 126000,
+    "annualUSD_p75": 144900
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 151200,
+    "annualUSD_p75": 173880
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 176400,
+    "annualUSD_p75": 202860
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 84000,
+    "annualUSD_p75": 96600
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 105000,
+    "annualUSD_p75": 120750
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 126000,
+    "annualUSD_p75": 144900
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 147000,
+    "annualUSD_p75": 169050
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 67200,
+    "annualUSD_p75": 77280
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 84000,
+    "annualUSD_p75": 96600
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 100800,
+    "annualUSD_p75": 115920
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 117600,
+    "annualUSD_p75": 135240
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 50400,
+    "annualUSD_p75": 57960
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 63000,
+    "annualUSD_p75": 72450
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 75600,
+    "annualUSD_p75": 86940
+  },
+  {
+    "roleCategory": "product",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 88200,
+    "annualUSD_p75": 101430
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 91200,
+    "annualUSD_p75": 104880
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 114000,
+    "annualUSD_p75": 131100
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 136800,
+    "annualUSD_p75": 157320
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 159600,
+    "annualUSD_p75": 183540
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 76000,
+    "annualUSD_p75": 87400
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 95000,
+    "annualUSD_p75": 109250
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 114000,
+    "annualUSD_p75": 131100
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 133000,
+    "annualUSD_p75": 152950
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 60800,
+    "annualUSD_p75": 69920
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 76000,
+    "annualUSD_p75": 87400
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 91200,
+    "annualUSD_p75": 104880
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 106400,
+    "annualUSD_p75": 122360
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 45600,
+    "annualUSD_p75": 52440
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 57000,
+    "annualUSD_p75": 65550
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 68400,
+    "annualUSD_p75": 78660
+  },
+  {
+    "roleCategory": "product",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 79800,
+    "annualUSD_p75": 91770
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 86400,
+    "annualUSD_p75": 99360
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 108000,
+    "annualUSD_p75": 124200
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 129600,
+    "annualUSD_p75": 149040
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 151200,
+    "annualUSD_p75": 173880
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 72000,
+    "annualUSD_p75": 82800
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 90000,
+    "annualUSD_p75": 103500
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 108000,
+    "annualUSD_p75": 124200
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 126000,
+    "annualUSD_p75": 144900
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 57600,
+    "annualUSD_p75": 66240
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 72000,
+    "annualUSD_p75": 82800
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 86400,
+    "annualUSD_p75": 99360
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 100800,
+    "annualUSD_p75": 115920
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 43200,
+    "annualUSD_p75": 49680
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 54000,
+    "annualUSD_p75": 62100
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 64800,
+    "annualUSD_p75": 74520
+  },
+  {
+    "roleCategory": "product",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 75600,
+    "annualUSD_p75": 86940
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 96000,
+    "annualUSD_p75": 110400
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 120000,
+    "annualUSD_p75": 138000
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 144000,
+    "annualUSD_p75": 165600
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 168000,
+    "annualUSD_p75": 193200
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 80000,
+    "annualUSD_p75": 92000
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 100000,
+    "annualUSD_p75": 115000
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 120000,
+    "annualUSD_p75": 138000
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 140000,
+    "annualUSD_p75": 161000
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 64000,
+    "annualUSD_p75": 73600
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 80000,
+    "annualUSD_p75": 92000
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 96000,
+    "annualUSD_p75": 110400
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 112000,
+    "annualUSD_p75": 128800
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 48000,
+    "annualUSD_p75": 55200
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 60000,
+    "annualUSD_p75": 69000
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 72000,
+    "annualUSD_p75": 82800
+  },
+  {
+    "roleCategory": "product",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 84000,
+    "annualUSD_p75": 96600
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 85680,
+    "annualUSD_p75": 98532
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 107100,
+    "annualUSD_p75": 123165
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 128520,
+    "annualUSD_p75": 147798
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 149940,
+    "annualUSD_p75": 172431
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 71400,
+    "annualUSD_p75": 82110
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 89250,
+    "annualUSD_p75": 102637
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 107100,
+    "annualUSD_p75": 123165
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 124950,
+    "annualUSD_p75": 143692
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 57120,
+    "annualUSD_p75": 65688
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 71400,
+    "annualUSD_p75": 82110
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 85680,
+    "annualUSD_p75": 98532
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 99960,
+    "annualUSD_p75": 114954
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 42840,
+    "annualUSD_p75": 49266
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 53550,
+    "annualUSD_p75": 61582
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 64260,
+    "annualUSD_p75": 73899
+  },
+  {
+    "roleCategory": "design",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 74970,
+    "annualUSD_p75": 86216
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 77520,
+    "annualUSD_p75": 89148
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 96900,
+    "annualUSD_p75": 111435
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 116280,
+    "annualUSD_p75": 133722
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 135660,
+    "annualUSD_p75": 156009
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 64600,
+    "annualUSD_p75": 74290
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 80750,
+    "annualUSD_p75": 92863
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 96900,
+    "annualUSD_p75": 111435
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 113050,
+    "annualUSD_p75": 130007
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 51680,
+    "annualUSD_p75": 59432
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 64600,
+    "annualUSD_p75": 74290
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 77520,
+    "annualUSD_p75": 89148
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 90440,
+    "annualUSD_p75": 104006
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 38760,
+    "annualUSD_p75": 44574
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 48450,
+    "annualUSD_p75": 55717
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 58140,
+    "annualUSD_p75": 66861
+  },
+  {
+    "roleCategory": "design",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 67830,
+    "annualUSD_p75": 78005
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 73440,
+    "annualUSD_p75": 84456
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 91800,
+    "annualUSD_p75": 105570
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 110160,
+    "annualUSD_p75": 126684
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 128520,
+    "annualUSD_p75": 147798
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 61200,
+    "annualUSD_p75": 70380
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 76500,
+    "annualUSD_p75": 87975
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 91800,
+    "annualUSD_p75": 105570
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 107100,
+    "annualUSD_p75": 123165
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 48960,
+    "annualUSD_p75": 56304
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 61200,
+    "annualUSD_p75": 70380
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 73440,
+    "annualUSD_p75": 84456
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 85680,
+    "annualUSD_p75": 98532
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 36720,
+    "annualUSD_p75": 42228
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 45900,
+    "annualUSD_p75": 52785
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 55080,
+    "annualUSD_p75": 63342
+  },
+  {
+    "roleCategory": "design",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 64260,
+    "annualUSD_p75": 73899
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 81600,
+    "annualUSD_p75": 93840
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 102000,
+    "annualUSD_p75": 117300
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 122400,
+    "annualUSD_p75": 140760
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 142800,
+    "annualUSD_p75": 164220
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 68000,
+    "annualUSD_p75": 78200
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 85000,
+    "annualUSD_p75": 97750
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 102000,
+    "annualUSD_p75": 117300
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 119000,
+    "annualUSD_p75": 136850
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 54400,
+    "annualUSD_p75": 62560
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 68000,
+    "annualUSD_p75": 78200
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 81600,
+    "annualUSD_p75": 93840
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 95200,
+    "annualUSD_p75": 109480
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 40800,
+    "annualUSD_p75": 46920
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 51000,
+    "annualUSD_p75": 58650
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 61200,
+    "annualUSD_p75": 70380
+  },
+  {
+    "roleCategory": "design",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 71400,
+    "annualUSD_p75": 82110
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 98784,
+    "annualUSD_p75": 113602
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 123480,
+    "annualUSD_p75": 142002
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 148176,
+    "annualUSD_p75": 170402
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 172872,
+    "annualUSD_p75": 198803
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 82320,
+    "annualUSD_p75": 94668
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 102900,
+    "annualUSD_p75": 118335
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 123480,
+    "annualUSD_p75": 142002
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 144060,
+    "annualUSD_p75": 165669
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 65856,
+    "annualUSD_p75": 75734
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 82320,
+    "annualUSD_p75": 94668
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 98784,
+    "annualUSD_p75": 113602
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 115248,
+    "annualUSD_p75": 132535
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 49392,
+    "annualUSD_p75": 56801
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 61740,
+    "annualUSD_p75": 71001
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 74088,
+    "annualUSD_p75": 85201
+  },
+  {
+    "roleCategory": "data",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 86436,
+    "annualUSD_p75": 99401
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 89376,
+    "annualUSD_p75": 102782
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 111720,
+    "annualUSD_p75": 128478
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 134064,
+    "annualUSD_p75": 154174
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 156408,
+    "annualUSD_p75": 179869
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 74480,
+    "annualUSD_p75": 85652
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 93100,
+    "annualUSD_p75": 107065
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 111720,
+    "annualUSD_p75": 128478
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 130340,
+    "annualUSD_p75": 149891
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 59584,
+    "annualUSD_p75": 68522
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 74480,
+    "annualUSD_p75": 85652
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 89376,
+    "annualUSD_p75": 102782
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 104272,
+    "annualUSD_p75": 119913
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 44688,
+    "annualUSD_p75": 51391
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 55860,
+    "annualUSD_p75": 64239
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 67032,
+    "annualUSD_p75": 77087
+  },
+  {
+    "roleCategory": "data",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 78204,
+    "annualUSD_p75": 89935
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 84672,
+    "annualUSD_p75": 97373
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 105840,
+    "annualUSD_p75": 121716
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 127008,
+    "annualUSD_p75": 146059
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 148176,
+    "annualUSD_p75": 170402
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 70560,
+    "annualUSD_p75": 81144
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 88200,
+    "annualUSD_p75": 101430
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 105840,
+    "annualUSD_p75": 121716
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 123480,
+    "annualUSD_p75": 142002
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 56448,
+    "annualUSD_p75": 64915
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 70560,
+    "annualUSD_p75": 81144
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 84672,
+    "annualUSD_p75": 97373
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 98784,
+    "annualUSD_p75": 113602
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 42336,
+    "annualUSD_p75": 48686
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 52920,
+    "annualUSD_p75": 60858
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 63504,
+    "annualUSD_p75": 73030
+  },
+  {
+    "roleCategory": "data",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 74088,
+    "annualUSD_p75": 85201
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 94080,
+    "annualUSD_p75": 108192
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 117600,
+    "annualUSD_p75": 135240
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 141120,
+    "annualUSD_p75": 162288
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 164640,
+    "annualUSD_p75": 189336
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 78400,
+    "annualUSD_p75": 90160
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 98000,
+    "annualUSD_p75": 112700
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 117600,
+    "annualUSD_p75": 135240
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 137200,
+    "annualUSD_p75": 157780
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 62720,
+    "annualUSD_p75": 72128
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 78400,
+    "annualUSD_p75": 90160
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 94080,
+    "annualUSD_p75": 108192
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 109760,
+    "annualUSD_p75": 126224
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 47040,
+    "annualUSD_p75": 54096
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 58800,
+    "annualUSD_p75": 67620
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 70560,
+    "annualUSD_p75": 81144
+  },
+  {
+    "roleCategory": "data",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 82320,
+    "annualUSD_p75": 94668
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 75600,
+    "annualUSD_p75": 86940
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 94500,
+    "annualUSD_p75": 108675
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 113400,
+    "annualUSD_p75": 130410
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 132300,
+    "annualUSD_p75": 152145
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 63000,
+    "annualUSD_p75": 72450
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 78750,
+    "annualUSD_p75": 90563
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 94500,
+    "annualUSD_p75": 108675
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 110250,
+    "annualUSD_p75": 126787
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 50400,
+    "annualUSD_p75": 57960
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 63000,
+    "annualUSD_p75": 72450
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 75600,
+    "annualUSD_p75": 86940
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 88200,
+    "annualUSD_p75": 101430
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 37800,
+    "annualUSD_p75": 43470
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 47250,
+    "annualUSD_p75": 54337
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 56700,
+    "annualUSD_p75": 65205
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 66150,
+    "annualUSD_p75": 76073
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 68400,
+    "annualUSD_p75": 78660
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 85500,
+    "annualUSD_p75": 98325
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 102600,
+    "annualUSD_p75": 117990
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 119700,
+    "annualUSD_p75": 137655
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 57000,
+    "annualUSD_p75": 65550
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 71250,
+    "annualUSD_p75": 81938
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 85500,
+    "annualUSD_p75": 98325
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 99750,
+    "annualUSD_p75": 114712
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 45600,
+    "annualUSD_p75": 52440
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 57000,
+    "annualUSD_p75": 65550
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 68400,
+    "annualUSD_p75": 78660
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 79800,
+    "annualUSD_p75": 91770
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 34200,
+    "annualUSD_p75": 39330
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 42750,
+    "annualUSD_p75": 49162
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 51300,
+    "annualUSD_p75": 58995
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 59850,
+    "annualUSD_p75": 68827
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 64800,
+    "annualUSD_p75": 74520
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 81000,
+    "annualUSD_p75": 93150
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 97200,
+    "annualUSD_p75": 111780
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 113400,
+    "annualUSD_p75": 130410
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 54000,
+    "annualUSD_p75": 62100
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 67500,
+    "annualUSD_p75": 77625
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 81000,
+    "annualUSD_p75": 93150
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 94500,
+    "annualUSD_p75": 108675
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 43200,
+    "annualUSD_p75": 49680
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 54000,
+    "annualUSD_p75": 62100
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 64800,
+    "annualUSD_p75": 74520
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 75600,
+    "annualUSD_p75": 86940
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 32400,
+    "annualUSD_p75": 37260
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 40500,
+    "annualUSD_p75": 46575
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 48600,
+    "annualUSD_p75": 55890
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 56700,
+    "annualUSD_p75": 65205
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 72000,
+    "annualUSD_p75": 82800
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 90000,
+    "annualUSD_p75": 103500
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 108000,
+    "annualUSD_p75": 124200
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 126000,
+    "annualUSD_p75": 144900
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 60000,
+    "annualUSD_p75": 69000
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 75000,
+    "annualUSD_p75": 86250
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 90000,
+    "annualUSD_p75": 103500
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 105000,
+    "annualUSD_p75": 120750
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 48000,
+    "annualUSD_p75": 55200
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 60000,
+    "annualUSD_p75": 69000
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 72000,
+    "annualUSD_p75": 82800
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 84000,
+    "annualUSD_p75": 96600
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 36000,
+    "annualUSD_p75": 41400
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 45000,
+    "annualUSD_p75": 51750
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 54000,
+    "annualUSD_p75": 62100
+  },
+  {
+    "roleCategory": "marketing",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 63000,
+    "annualUSD_p75": 72450
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 70560,
+    "annualUSD_p75": 81144
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 88200,
+    "annualUSD_p75": 101430
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 105840,
+    "annualUSD_p75": 121716
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 123480,
+    "annualUSD_p75": 142002
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 58800,
+    "annualUSD_p75": 67620
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 73500,
+    "annualUSD_p75": 84525
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 88200,
+    "annualUSD_p75": 101430
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 102900,
+    "annualUSD_p75": 118335
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 47040,
+    "annualUSD_p75": 54096
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 58800,
+    "annualUSD_p75": 67620
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 70560,
+    "annualUSD_p75": 81144
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 82320,
+    "annualUSD_p75": 94668
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 35280,
+    "annualUSD_p75": 40572
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 44100,
+    "annualUSD_p75": 50715
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 52920,
+    "annualUSD_p75": 60858
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 61740,
+    "annualUSD_p75": 71001
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 63840,
+    "annualUSD_p75": 73416
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 79800,
+    "annualUSD_p75": 91770
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 95760,
+    "annualUSD_p75": 110124
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 111720,
+    "annualUSD_p75": 128478
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 53200,
+    "annualUSD_p75": 61180
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 66500,
+    "annualUSD_p75": 76475
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 79800,
+    "annualUSD_p75": 91770
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 93100,
+    "annualUSD_p75": 107065
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 42560,
+    "annualUSD_p75": 48944
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 53200,
+    "annualUSD_p75": 61180
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 63840,
+    "annualUSD_p75": 73416
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 74480,
+    "annualUSD_p75": 85652
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 31920,
+    "annualUSD_p75": 36708
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 39900,
+    "annualUSD_p75": 45885
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 47880,
+    "annualUSD_p75": 55062
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 55860,
+    "annualUSD_p75": 64239
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 60480,
+    "annualUSD_p75": 69552
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 75600,
+    "annualUSD_p75": 86940
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 90720,
+    "annualUSD_p75": 104328
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 105840,
+    "annualUSD_p75": 121716
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 50400,
+    "annualUSD_p75": 57960
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 63000,
+    "annualUSD_p75": 72450
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 75600,
+    "annualUSD_p75": 86940
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 88200,
+    "annualUSD_p75": 101430
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 40320,
+    "annualUSD_p75": 46368
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 50400,
+    "annualUSD_p75": 57960
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 60480,
+    "annualUSD_p75": 69552
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 70560,
+    "annualUSD_p75": 81144
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 30240,
+    "annualUSD_p75": 34776
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 37800,
+    "annualUSD_p75": 43470
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 45360,
+    "annualUSD_p75": 52164
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 52920,
+    "annualUSD_p75": 60858
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 67200,
+    "annualUSD_p75": 77280
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 84000,
+    "annualUSD_p75": 96600
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 100800,
+    "annualUSD_p75": 115920
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 117600,
+    "annualUSD_p75": 135240
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 56000,
+    "annualUSD_p75": 64400
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 70000,
+    "annualUSD_p75": 80500
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 84000,
+    "annualUSD_p75": 96600
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 98000,
+    "annualUSD_p75": 112700
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 44800,
+    "annualUSD_p75": 51520
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 56000,
+    "annualUSD_p75": 64400
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 67200,
+    "annualUSD_p75": 77280
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 78400,
+    "annualUSD_p75": 90160
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 33600,
+    "annualUSD_p75": 38640
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 42000,
+    "annualUSD_p75": 48300
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 50400,
+    "annualUSD_p75": 57960
+  },
+  {
+    "roleCategory": "sales",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 58800,
+    "annualUSD_p75": 67620
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 65520,
+    "annualUSD_p75": 75348
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 81900,
+    "annualUSD_p75": 94185
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 98280,
+    "annualUSD_p75": 113022
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 114660,
+    "annualUSD_p75": 131859
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 54600,
+    "annualUSD_p75": 62790
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 68250,
+    "annualUSD_p75": 78488
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 81900,
+    "annualUSD_p75": 94185
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 95550,
+    "annualUSD_p75": 109882
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 43680,
+    "annualUSD_p75": 50232
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 54600,
+    "annualUSD_p75": 62790
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 65520,
+    "annualUSD_p75": 75348
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 76440,
+    "annualUSD_p75": 87906
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 32760,
+    "annualUSD_p75": 37674
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 40950,
+    "annualUSD_p75": 47093
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 49140,
+    "annualUSD_p75": 56511
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 57330,
+    "annualUSD_p75": 65930
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 59280,
+    "annualUSD_p75": 68172
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 74100,
+    "annualUSD_p75": 85215
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 88920,
+    "annualUSD_p75": 102258
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 103740,
+    "annualUSD_p75": 119301
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 49400,
+    "annualUSD_p75": 56810
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 61750,
+    "annualUSD_p75": 71013
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 74100,
+    "annualUSD_p75": 85215
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 86450,
+    "annualUSD_p75": 99417
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 39520,
+    "annualUSD_p75": 45448
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 49400,
+    "annualUSD_p75": 56810
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 59280,
+    "annualUSD_p75": 68172
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 69160,
+    "annualUSD_p75": 79534
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 29640,
+    "annualUSD_p75": 34086
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 37050,
+    "annualUSD_p75": 42608
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 44460,
+    "annualUSD_p75": 51129
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 51870,
+    "annualUSD_p75": 59650
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 56160,
+    "annualUSD_p75": 64584
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 70200,
+    "annualUSD_p75": 80730
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 84240,
+    "annualUSD_p75": 96876
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 98280,
+    "annualUSD_p75": 113022
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 46800,
+    "annualUSD_p75": 53820
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 58500,
+    "annualUSD_p75": 67275
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 70200,
+    "annualUSD_p75": 80730
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 81900,
+    "annualUSD_p75": 94185
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 37440,
+    "annualUSD_p75": 43056
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 46800,
+    "annualUSD_p75": 53820
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 56160,
+    "annualUSD_p75": 64584
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 65520,
+    "annualUSD_p75": 75348
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 28080,
+    "annualUSD_p75": 32292
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 35100,
+    "annualUSD_p75": 40365
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 42120,
+    "annualUSD_p75": 48438
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 49140,
+    "annualUSD_p75": 56511
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 62400,
+    "annualUSD_p75": 71760
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 78000,
+    "annualUSD_p75": 89700
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 93600,
+    "annualUSD_p75": 107640
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 109200,
+    "annualUSD_p75": 125580
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 52000,
+    "annualUSD_p75": 59800
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 65000,
+    "annualUSD_p75": 74750
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 78000,
+    "annualUSD_p75": 89700
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 91000,
+    "annualUSD_p75": 104650
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 41600,
+    "annualUSD_p75": 47840
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 52000,
+    "annualUSD_p75": 59800
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 62400,
+    "annualUSD_p75": 71760
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 72800,
+    "annualUSD_p75": 83720
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 31200,
+    "annualUSD_p75": 35880
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 39000,
+    "annualUSD_p75": 44850
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 46800,
+    "annualUSD_p75": 53820
+  },
+  {
+    "roleCategory": "operations",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 54600,
+    "annualUSD_p75": 62790
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 90720,
+    "annualUSD_p75": 104328
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 113400,
+    "annualUSD_p75": 130410
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 136080,
+    "annualUSD_p75": 156492
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 158760,
+    "annualUSD_p75": 182574
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 75600,
+    "annualUSD_p75": 86940
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 94500,
+    "annualUSD_p75": 108675
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 113400,
+    "annualUSD_p75": 130410
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 132300,
+    "annualUSD_p75": 152145
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 60480,
+    "annualUSD_p75": 69552
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 75600,
+    "annualUSD_p75": 86940
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 90720,
+    "annualUSD_p75": 104328
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 105840,
+    "annualUSD_p75": 121716
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 45360,
+    "annualUSD_p75": 52164
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 56700,
+    "annualUSD_p75": 65205
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 68040,
+    "annualUSD_p75": 78246
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "tech",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 79380,
+    "annualUSD_p75": 91287
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 82080,
+    "annualUSD_p75": 94392
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 102600,
+    "annualUSD_p75": 117990
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 123120,
+    "annualUSD_p75": 141588
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 143640,
+    "annualUSD_p75": 165186
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 68400,
+    "annualUSD_p75": 78660
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 85500,
+    "annualUSD_p75": 98325
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 102600,
+    "annualUSD_p75": 117990
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 119700,
+    "annualUSD_p75": 137655
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 54720,
+    "annualUSD_p75": 62928
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 68400,
+    "annualUSD_p75": 78660
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 82080,
+    "annualUSD_p75": 94392
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 95760,
+    "annualUSD_p75": 110124
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 41040,
+    "annualUSD_p75": 47196
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 51300,
+    "annualUSD_p75": 58995
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 61560,
+    "annualUSD_p75": 70794
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "creative",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 71820,
+    "annualUSD_p75": 82593
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 77760,
+    "annualUSD_p75": 89424
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 97200,
+    "annualUSD_p75": 111780
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 116640,
+    "annualUSD_p75": 134136
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 136080,
+    "annualUSD_p75": 156492
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 64800,
+    "annualUSD_p75": 74520
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 81000,
+    "annualUSD_p75": 93150
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 97200,
+    "annualUSD_p75": 111780
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 113400,
+    "annualUSD_p75": 130410
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 51840,
+    "annualUSD_p75": 59616
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 64800,
+    "annualUSD_p75": 74520
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 77760,
+    "annualUSD_p75": 89424
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 90720,
+    "annualUSD_p75": 104328
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 38880,
+    "annualUSD_p75": 44712
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 48600,
+    "annualUSD_p75": 55890
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 58320,
+    "annualUSD_p75": 67068
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "industrial",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 68040,
+    "annualUSD_p75": 78246
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "0-2",
+    "annualUSD_p50": 86400,
+    "annualUSD_p75": 99360
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "3-5",
+    "annualUSD_p50": 108000,
+    "annualUSD_p75": 124200
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "6-9",
+    "annualUSD_p50": 129600,
+    "annualUSD_p75": 149040
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 1,
+    "expBand": "10+",
+    "annualUSD_p50": 151200,
+    "annualUSD_p75": 173880
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "0-2",
+    "annualUSD_p50": 72000,
+    "annualUSD_p75": 82800
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "3-5",
+    "annualUSD_p50": 90000,
+    "annualUSD_p75": 103500
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "6-9",
+    "annualUSD_p50": 108000,
+    "annualUSD_p75": 124200
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 2,
+    "expBand": "10+",
+    "annualUSD_p50": 126000,
+    "annualUSD_p75": 144900
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "0-2",
+    "annualUSD_p50": 57600,
+    "annualUSD_p75": 66240
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "3-5",
+    "annualUSD_p50": 72000,
+    "annualUSD_p75": 82800
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "6-9",
+    "annualUSD_p50": 86400,
+    "annualUSD_p75": 99360
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 3,
+    "expBand": "10+",
+    "annualUSD_p50": 100800,
+    "annualUSD_p75": 115920
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "0-2",
+    "annualUSD_p50": 43200,
+    "annualUSD_p75": 49680
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "3-5",
+    "annualUSD_p50": 54000,
+    "annualUSD_p75": 62100
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "6-9",
+    "annualUSD_p50": 64800,
+    "annualUSD_p75": 74520
+  },
+  {
+    "roleCategory": "finance",
+    "industry": "other",
+    "tier": 4,
+    "expBand": "10+",
+    "annualUSD_p50": 75600,
+    "annualUSD_p75": 86940
+  }
+]

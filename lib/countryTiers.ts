@@ -1,0 +1,60 @@
+export const COUNTRY_OPTIONS = [
+  "United States",
+  "Canada",
+  "United Kingdom",
+  "Germany",
+  "France",
+  "Netherlands",
+  "Spain",
+  "Italy",
+  "Sweden",
+  "Poland",
+  "India",
+  "Brazil",
+  "Mexico",
+  "Nigeria",
+  "South Africa",
+  "United Arab Emirates",
+  "Singapore",
+  "Australia",
+  "New Zealand",
+  "Japan",
+  "South Korea",
+  "Philippines",
+  "Vietnam",
+  "Argentina",
+  "Chile",
+  "Other"
+];
+
+const TIER_MAP: Record<string, number> = {
+  "United States": 1,
+  "Canada": 1,
+  "United Kingdom": 1,
+  "Germany": 1,
+  "France": 1,
+  "Netherlands": 1,
+  "Sweden": 1,
+  "Australia": 1,
+  "Singapore": 1,
+  "United Arab Emirates": 2,
+  "Japan": 2,
+  "South Korea": 2,
+  "New Zealand": 2,
+  "Spain": 2,
+  "Italy": 2,
+  "Poland": 2,
+  "Chile": 2,
+  "Mexico": 3,
+  "Brazil": 3,
+  "Argentina": 3,
+  "South Africa": 3,
+  "India": 3,
+  "Philippines": 3,
+  "Vietnam": 3,
+  "Nigeria": 4
+};
+
+export function getResidenceTier(country: string): number {
+  return TIER_MAP[country] ?? 3;
+}
