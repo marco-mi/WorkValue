@@ -1,7 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { ResultCard } from "@/components/ResultCard";
 import { ShareActions } from "@/components/ShareActions";
@@ -182,9 +181,12 @@ export default async function ResultPage({ params }: { params: { id: string } })
       </section>
 
       <div className="flex justify-end">
-        <Button asChild>
-          <Link href="/">Take the test again</Link>
-        </Button>
+        <Link
+          href="/"
+          className="inline-flex items-center justify-center rounded-md bg-ink px-4 py-2 text-sm font-semibold text-paper transition hover:bg-slate focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate"
+        >
+          Take the test again
+        </Link>
       </div>
     </div>
   );
