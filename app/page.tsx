@@ -15,7 +15,7 @@ export default function HomePage() {
           </div>
           <div className="space-y-3">
             <Card className="max-w-sm border-ink/20 bg-paper/80 p-4 text-sm">
-              Real value is what the market pays. Perceived value is what you sell. The gap is the story.
+              Real value is what the market pays. Your compensation is what you get. The gap is the story.
             </Card>
             <Link href="/insights" className="text-xs uppercase tracking-[0.3em] text-ink underline">
               View insights

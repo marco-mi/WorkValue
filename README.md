@@ -1,6 +1,6 @@
 # WORK VALUE CALCULATOR
 
-Provocative concept app for CORPO. Calculates real vs perceived market value and stores anonymized results in Supabase.
+Provocative concept app for CORPO. Calculates compensation vs real market value and stores anonymized results in Supabase.
 
 ## Stack
 - Next.js App Router + TypeScript
@@ -29,7 +29,6 @@ create table results (
   residence_tier int,
   exp_band text,
   real_value_usd int,
-  perceived_value_usd int,
   gap_usd int,
   gap_pct float,
   label text,
@@ -52,7 +51,6 @@ create table aggregate_events (
   employment_type text,
   ethnicity text,
   real_value_usd int,
-  perceived_value_usd int,
   gap_usd int,
   label text
 );

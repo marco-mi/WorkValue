@@ -12,7 +12,7 @@ interface ResultCardProps {
   id: string;
   label: "OVERPRICED" | "UNDERPRICED";
   realValueUSD: number;
-  perceivedValueUSD: number;
+  compensationUSD: number;
   gapUSD: number;
   gapPct: number;
   strengths: string[];
@@ -26,7 +26,7 @@ export function ResultCard({
   id,
   label,
   realValueUSD,
-  perceivedValueUSD,
+  compensationUSD,
   gapUSD,
   gapPct,
   strengths,
@@ -39,6 +39,9 @@ export function ResultCard({
   const [downloading, setDownloading] = React.useState(false);
 
   const accent = label === "OVERPRICED" ? "green" : "red";
+  const gapSign = gapUSD >= 0 ? "+" : "-";
+  const gapUsdDisplay = `${gapSign}${formatCurrency(Math.abs(gapUSD))}`;
+  const gapPctDisplay = `${gapSign}${formatPercent(Math.abs(gapPct))}`;
 
   async function handleDownload() {
     if (!cardRef.current) return;
@@ -67,13 +70,13 @@ export function ResultCard({
             <div className="text-2xl font-bold">{formatCurrency(realValueUSD)}</div>
           </div>
           <div>
-            <div className="text-xs uppercase text-paper/60">Perceived Value</div>
-            <div className="text-2xl font-bold">{formatCurrency(perceivedValueUSD)}</div>
+            <div className="text-xs uppercase text-paper/60">Compensation</div>
+            <div className="text-2xl font-bold">{formatCurrency(compensationUSD)}</div>
           </div>
           <div>
             <div className="text-xs uppercase text-paper/60">Gap</div>
             <div className="text-2xl font-bold">
-              {formatCurrency(gapUSD)} ({formatPercent(gapPct)})
+              {gapUsdDisplay} ({gapPctDisplay})
             </div>
           </div>
         </div>

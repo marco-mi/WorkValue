@@ -474,7 +474,7 @@ export function ValueForm() {
           </div>
 
           <div className="space-y-2">
-            <Label>Ethnicity (optional, aggregate only)</Label>
+            <Label>Ethnicity (optional, affects calculation)</Label>
             <Select value={ethnicity} onChange={(e) => setEthnicity(e.target.value)}>
               <option value="">Pick ethnicity (optional)</option>
               {ETHNICITY_OPTIONS.map((item) => (
@@ -484,7 +484,7 @@ export function ValueForm() {
               ))}
             </Select>
             <p className="text-xs text-ink/70">
-              Used only for anonymized insights when consent is granted.
+              Used in the calculation. Stored only for anonymized insights when consent is granted.
             </p>
           </div>
         </div>

@@ -42,6 +42,12 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: "Missing required fields." }, { status: 400 });
     }
 
+    const hasAnnual = !!body.annualCompensation && body.annualCompensation > 0;
+    const hasHourly = !!body.hourlyRate && !!body.hoursPerWeek;
+    if (!hasAnnual && !hasHourly) {
+      return NextResponse.json({ error: "Compensation input required." }, { status: 400 });
+    }
+
     const result = score({
       role: body.role,
       industry: body.industry,
@@ -52,6 +58,7 @@ export async function POST(request: Request) {
       languagesCount: body.languagesCount,
       employment: body.employment,
       education: body.education,
+      ethnicity: body.ethnicity ?? undefined,
       annualCompensation: body.annualCompensation,
       hourlyRate: body.hourlyRate,
       hoursPerWeek: body.hoursPerWeek
@@ -67,7 +74,6 @@ export async function POST(request: Request) {
         residence_tier: result.residenceTier,
         exp_band: result.expBand,
         real_value_usd: result.realValueUSD,
-        perceived_value_usd: result.perceivedValueUSD,
         gap_usd: result.gapUSD,
         gap_pct: result.gapPct,
         label: result.label,
@@ -99,7 +105,6 @@ export async function POST(request: Request) {
         employment_type: body.employment,
         ethnicity,
         real_value_usd: result.realValueUSD,
-        perceived_value_usd: result.perceivedValueUSD,
         gap_usd: result.gapUSD,
         label: result.label
       });

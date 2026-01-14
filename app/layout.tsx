@@ -16,7 +16,7 @@ const mono = Space_Mono({
 
 export const metadata: Metadata = {
   title: "WORK VALUE CALCULATOR",
-  description: "A provocative concept tool for real vs perceived market value."
+  description: "A provocative concept tool for compensation vs real market value."
 };
 
 export default function RootLayout({

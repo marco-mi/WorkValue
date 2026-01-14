@@ -26,6 +26,7 @@ export interface ScoreInput {
   languagesCount: number;
   employment: EmploymentType;
   education: EducationLevel;
+  ethnicity?: string | null;
   annualCompensation?: number;
   hourlyRate?: number;
   hoursPerWeek?: number;
@@ -37,7 +38,6 @@ export interface ScoreResult {
   expBand: ExpBand;
   annualUSD: number;
   realValueUSD: number;
-  perceivedValueUSD: number;
   gapUSD: number;
   gapPct: number;
   label: "OVERPRICED" | "UNDERPRICED";
@@ -114,7 +114,28 @@ export function getMarketAccessLevel(workCountry: string): MarketAccessLevel {
   return "none";
 }
 
-function deriveStrengthsWeaknesses(input: ScoreInput, marketAccess: MarketAccessLevel) {
+function getEthnicityBias(ethnicity?: string | null) {
+  if (!ethnicity || ethnicity === "Prefer not to say") return 0;
+  const biasMap: Record<string, number> = {
+    White: 0.05,
+    Asian: 0.02,
+    "South Asian": -0.02,
+    Black: -0.06,
+    "Hispanic/Latino": -0.04,
+    "Middle Eastern": -0.03,
+    Indigenous: -0.06,
+    Mixed: -0.03,
+    Other: 0
+  };
+  return biasMap[ethnicity] ?? 0;
+}
+
+function deriveStrengthsWeaknesses(
+  input: ScoreInput,
+  marketAccess: MarketAccessLevel,
+  ethnicityBias: number
+) {
+  const biasSignal = ethnicityBias > 0 ? 2 : ethnicityBias < 0 ? -1 : 0;
   const factors = [
     {
       label: "Leadership exposure",
@@ -133,6 +154,12 @@ function deriveStrengthsWeaknesses(input: ScoreInput, marketAccess: MarketAccess
       value: marketAccess === "strong" ? 2 : marketAccess === "some" ? 1 : 0,
       threshold: 1,
       weakness: "Low Tier-1 market access"
+    },
+    {
+      label: "Systemic advantage signal",
+      value: biasSignal,
+      threshold: 1,
+      weakness: "Systemic bias headwind"
     },
     {
       label: "Education signal",
@@ -176,6 +203,7 @@ export function score(input: ScoreInput): ScoreResult {
   const residenceTier = getResidenceTier(input.residenceCountry);
   const expBand = getExpBand(input.expYears);
   const marketAccess = getMarketAccessLevel(input.workCountry);
+  const ethnicityBias = getEthnicityBias(input.ethnicity);
 
   const publicRow = findBenchmark(PUBLIC, roleCategory, input.industry, residenceTier, expBand);
   const platformRow = findBenchmark(PLATFORM, roleCategory, input.industry, residenceTier, expBand);
@@ -187,46 +215,30 @@ export function score(input: ScoreInput): ScoreResult {
   const overlapAdj = marketAccess === "strong" ? 0.08 : marketAccess === "some" ? 0.04 : 0;
   const employmentAdj = input.employment === "owner" ? 0.05 : input.employment === "self-employed" ? 0.03 : 0;
 
-  const realAdj = clamp(leadershipAdj + languageAdj + overlapAdj + employmentAdj, -0.1, 0.25);
+  const realAdj = clamp(
+    leadershipAdj + languageAdj + overlapAdj + employmentAdj + ethnicityBias,
+    -0.1,
+    0.25
+  );
   const realValueUSD = Math.round(baseReal * (1 + realAdj));
 
-  const educationAdj =
-    input.education === "postgraduate"
-      ? 0.1
-      : input.education === "master"
-        ? 0.07
-        : input.education === "bachelor"
-          ? 0.04
-          : input.education === "bootcamp"
-            ? 0.03
-            : input.education === "self_taught"
-              ? 0.02
-              : 0;
-
-  const leadershipUplift = input.leadership === "org" ? 0.18 : input.leadership === "small" ? 0.1 : 0;
-  const languageUplift = input.languagesCount >= 3 ? 0.07 : input.languagesCount === 2 ? 0.04 : 0;
-  const overlapUplift = marketAccess === "strong" ? 0.06 : marketAccess === "some" ? 0.03 : 0;
-
-  const perceivedUplift = clamp(
-    educationAdj + leadershipUplift + languageUplift + overlapUplift,
-    0,
-    0.3
-  );
-
-  const perceivedValueUSD = Math.round(realValueUSD * (1 + perceivedUplift));
-  const gapUSD = perceivedValueUSD - realValueUSD;
+  const annualUSD = Math.round(annualizeComp(input));
+  const gapUSD = annualUSD - realValueUSD;
   const gapPct = realValueUSD > 0 ? gapUSD / realValueUSD : 0;
   const label = gapUSD > 0 ? "OVERPRICED" : "UNDERPRICED";
 
-  const { strengths, weaknesses } = deriveStrengthsWeaknesses(input, marketAccess);
+  const { strengths, weaknesses } = deriveStrengthsWeaknesses(
+    input,
+    marketAccess,
+    ethnicityBias
+  );
 
   return {
     roleCategory,
     residenceTier,
     expBand,
-    annualUSD: Math.round(annualizeComp(input)),
+    annualUSD,
     realValueUSD,
-    perceivedValueUSD,
     gapUSD,
     gapPct,
     label,
